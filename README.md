@@ -1,7 +1,9 @@
 # GenAlgDemo
 Repo for genetic algorithm workshops
 
-Setup (you need to be inside cloned repository):
+# Setup
+
+You need to be inside cloned repository
 
 1. Make sure you have newest Python version:
 
