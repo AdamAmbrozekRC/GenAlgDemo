@@ -39,6 +39,8 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+To stop Jupyter Notebook press control + C twice.
+
 To deactivate virtual environment run the following command:
 
 ```
