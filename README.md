@@ -3,9 +3,13 @@ Repo for genetic algorithm workshops
 
 # Setup
 
-You need to be inside cloned repository
+1. You need to be inside the cloned repository
+```
+git clone https://github.com/ErykProkopczukRC/GenAlgDemo.git
+cd ./GenAlgDemo/
+```
 
-1. Make sure you have newest Python version:
+2. Make sure you have the newest Python version:
 
 ```
 python3 --version
@@ -17,25 +21,25 @@ if not - upgrade python:
 brew upgrade python
 ```
 
-2. Create virtual environment:
+3. Create the virtual environment:
 
 ```
 python3 -m venv .venv
 ```
 
-3. Activate virtual environment:
+4. Activate the virtual environment:
 
 ```
 source .venv/bin/activate
 ```
 
-4. Install required packages:
+5. Install required packages:
 
 ```
 pip install -r requirements.txt
 ```
 
-5. Run Jupyter Notebook:
+6. Run Jupyter Notebook:
 
 ```
 jupyter notebook
